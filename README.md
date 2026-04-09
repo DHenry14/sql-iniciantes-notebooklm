@@ -11,7 +11,7 @@
 ---
 
 ## 📋 Índice
-- [NotebookLM]([#-visão-geral](https://notebooklm.google.com/notebook/6dcbef33-d007-483a-b5e0-c4ec31d39bb2))
+- [NotebookLM](https://notebooklm.google.com/notebook/6dcbef33-d007-483a-b5e0-c4ec31d39bb2)
 - [Visão Geral](#-visão-geral)
 - [Objetivos de Estudo](#-objetivos-de-estudo)
 - [Principais Conceitos](#-principais-conceitos-de-sql)
