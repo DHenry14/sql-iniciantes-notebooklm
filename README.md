@@ -196,6 +196,12 @@ As fontes abaixo foram utilizadas para garantir um aprendizado consistente e con
 
 O aprendizado de SQL se torna muito mais eficiente quando combinado com **prática** e **uso inteligente de prompts**. Mesmo conceitos simples podem resolver problemas reais quando bem aplicados.
 
+Mapa mental gerado pelo notebookLM:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6ab0776-e517-4cee-8d0c-81a4bb35f95a" alt="NotebookLM Mind Map" width="800"/>
+</p>
+
 ---
 
 ## 📌 Sobre o Projeto
