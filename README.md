@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Iniciantes-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
 </p>
-
 <h1 align="center">📊 SQL para Iniciantes</h1>
 <h3 align="center">Guia Prático e Estruturado</h3>
 
@@ -12,7 +11,7 @@
 ---
 
 ## 📋 Índice
-
+- [NotebookLM]([#-visão-geral](https://notebooklm.google.com/notebook/6dcbef33-d007-483a-b5e0-c4ec31d39bb2))
 - [Visão Geral](#-visão-geral)
 - [Objetivos de Estudo](#-objetivos-de-estudo)
 - [Principais Conceitos](#-principais-conceitos-de-sql)
